@@ -1,4 +1,4 @@
-# Hello World! in Solidity
+# Error handling in solidity 
 
 
 ## Install
